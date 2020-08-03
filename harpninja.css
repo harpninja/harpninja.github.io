@@ -1,0 +1,46 @@
+body {
+	font-family: 'Cinzel', sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	background: #ffffff;
+	color: #222222;
+	/* width: 960px; */
+	margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Cinzel', sans-serif;
+}
+
+img {
+	border-style: solid;
+	border-color: #222222;
+	border-width: 1px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	width: 960px;
+}
+
+.item {
+	margin: auto;
+	width: 100px;
+	/* height: 45px; */
+}
+
+.plain {
+	font-family: 'Arapey', sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	background: #ffffff;
+	color: #222222;
+	width: 960px;
+	margin: 20px;
+}
+
+a:link {color: #3F7D7E}
+a:visited {color: #3F7D7E}
+a:active {color: #3F7D7E}
