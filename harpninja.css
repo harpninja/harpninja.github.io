@@ -1,15 +1,14 @@
 body {
-	font-family: 'Cinzel', sans-serif;
-	font-size: 1em;
-	line-height: 1.5em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.6em;
+	line-height: 1.0em;
 	background: #ffffff;
 	color: #222222;
-	/* width: 960px; */
 	margin: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Cinzel', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 img {
@@ -32,9 +31,9 @@ img {
 }
 
 .plain {
-	font-family: 'Arapey', sans-serif;
-	font-size: 1em;
-	line-height: 1.5em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.6em;
+	line-height: 1.0em;
 	background: #ffffff;
 	color: #222222;
 	width: 960px;
