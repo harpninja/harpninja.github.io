@@ -1,6 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 0.6em;
+	font-size: 0.625em;
 	line-height: 1.0em;
 	background: #ffffff;
 	color: #222222;
@@ -27,12 +27,11 @@ img {
 .item {
 	margin: auto;
 	width: 100px;
-	/* height: 45px; */
 }
 
 .plain {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 0.6em;
+	font-size: 0.625em;
 	line-height: 1.0em;
 	background: #ffffff;
 	color: #222222;
@@ -40,6 +39,6 @@ img {
 	margin: 20px;
 }
 
-a:link {color: #3F7D7E}
-a:visited {color: #3F7D7E}
-a:active {color: #3F7D7E}
+a:link {color: #222222}
+a:visited {color: #222222}
+a:active {color: #222222}
