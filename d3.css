@@ -1,0 +1,39 @@
+body {
+	font-family: 'Cormorant Garamond', sans-serif;
+	font-size: 1em;
+	line-height: 1.5em;
+	background: #ffffff;
+	color: #222222;
+	margin: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Playfair Display', sans-serif;
+}
+
+img {
+	border-style: solid;
+	border-color: #222222;
+	border-width: 1px;
+}
+
+a:link {color: #222222}
+a:visited {color: #222222}
+a:active {color: #222222}
+
+.line {
+	fill: none;
+	stroke: #000000;
+	stroke-width: 1px;
+}
+
+.axis path, .axis line {
+	fill: none;
+	stroke: #000000;
+}
+
+.crispy {
+	stroke: #000000;
+	stroke-width: 1px;
+	fill: steelblue;
+}
