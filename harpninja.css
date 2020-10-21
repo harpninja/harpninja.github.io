@@ -17,28 +17,6 @@ img {
 	border-width: 1px;
 }
 
-.container {
-	display: flex;
-	flex-wrap: nowrap;
-	justify-content: space-around;
-	width: 960px;
-}
-
-.item {
-	margin: auto;
-	width: 100px;
-}
-
-.plain {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 0.8em;
-	line-height: 1.3em;
-	background: #ffffff;
-	color: #222222;
-	width: 960px;
-	margin: 20px;
-}
-
-a:link {color: #4455ee}
+a:link {color: #222222}
 a:visited {color: #222222}
-a:active {color: #4455ee}
+a:active {color: #222222}
